@@ -22,6 +22,6 @@ Install packges with YARN.
 
 
 ```javascript
-yarn install
+yarn 
 ```
 
